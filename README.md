@@ -15,15 +15,15 @@ Kerala EdTech Market Insights
 This project analyzes the YouTube performance of major EdTech players (Xylem, Eduport, and Exam Winner) to identify content trends, viewer behavior, and engagement patterns. By leveraging data from the YouTube API, the analysis provides data-driven recommendations to optimize video duration and content scheduling during exam vs. non-exam periods
 ## Tool and Method
 
-
+![image alt](https://github.com/Aman172p/API-integration-ETL-EdTech--Market-Insights-PowerBI/blob/main/tool.png?raw=true)
 •	Data Collection: YouTube Data API
 •	ETL
 •	Visualization: Power BI 
 •	Metrics: Engagement Rate, View Velocity, Market Share, Video Duration, Viral Videos
 
 ## Dashbord
-
-
+![image alt](https://github.com/Aman172p/API-integration-ETL-EdTech--Market-Insights-PowerBI/blob/main/page1.png?raw=true)
+![image alt](https://github.com/Aman172p/API-integration-ETL-EdTech--Market-Insights-PowerBI/blob/main/page2.png?raw=true)
 
 ## 📊 Key Findings & Insights
 
